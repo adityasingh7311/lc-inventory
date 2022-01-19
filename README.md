@@ -8,7 +8,7 @@
 To run the program locally:
 1. Open a terminal and move into the project directory
 2. Run 'bundle install' to install any missing Gems
-3. Run 'rails db:migrate' to initialize database
-4. Run 'rails server' to start to application
-5. Open http://localhost:3000/ to use app
+
+3. Run 'rails server' to start to application
+4. Open http://localhost:3000/ to use app
 
