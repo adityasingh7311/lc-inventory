@@ -1,5 +1,9 @@
 # README
 
+The app is deployed online here: https://lc-inventory-app-85421.herokuapp.com/
+
+Instructions for local installation are below.
+
 1. Prerequistes: Ruby (2.7.3), SQLite3, Node.js, Yarn
 
     Installation instructions can be found here: https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails
